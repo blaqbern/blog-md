@@ -1,0 +1,24 @@
+{
+  "name": "blog-md",
+  "version": "0.1.0",
+  "description": "A simple blogsite generator to use with markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaqbern/blog-md.git"
+  },
+  "keywords": [
+    "markdown",
+    "blog",
+    "webpack"
+  ],
+  "author": "Chris Blackburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaqbern/blog-md/issues"
+  },
+  "homepage": "https://github.com/blaqbern/blog-md#readme"
+}
